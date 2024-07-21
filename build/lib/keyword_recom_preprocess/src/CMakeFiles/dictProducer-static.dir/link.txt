@@ -1,0 +1,2 @@
+/usr/bin/cmake -E time /usr/bin/ar qc libdictProducer-static.a CMakeFiles/dictProducer-static.dir/DictProducer.cc.o
+/usr/bin/cmake -E time /usr/bin/ranlib libdictProducer-static.a

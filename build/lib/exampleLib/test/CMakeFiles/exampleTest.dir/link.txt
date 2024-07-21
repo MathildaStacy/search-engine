@@ -1,0 +1,1 @@
+/usr/bin/cmake -E time /usr/bin/g++ -g CMakeFiles/exampleTest.dir/exampleTest.cc.o -o exampleTest  ../src/libadd-static.a ../../libgtest.a ../../libgmock.a ../../libgtest.a 

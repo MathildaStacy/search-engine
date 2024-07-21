@@ -1,0 +1,2 @@
+/usr/bin/cmake -E time /usr/bin/ar qc libadd-static.a CMakeFiles/add-static.dir/add.cc.o
+/usr/bin/cmake -E time /usr/bin/ranlib libadd-static.a

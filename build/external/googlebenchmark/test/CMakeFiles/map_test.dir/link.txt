@@ -1,0 +1,1 @@
+/usr/bin/cmake -E time /usr/bin/g++   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -Wstrict-aliasing  -Wno-unused-variable -g CMakeFiles/map_test.dir/map_test.cc.o -o map_test  ../src/libbenchmark.a -lrt 

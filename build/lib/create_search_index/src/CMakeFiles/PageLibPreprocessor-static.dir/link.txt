@@ -1,0 +1,2 @@
+/usr/bin/cmake -E time /usr/bin/ar qc libPageLibPreprocessor-static.a CMakeFiles/PageLibPreprocessor-static.dir/PageLibPreprocessor.cc.o
+/usr/bin/cmake -E time /usr/bin/ranlib libPageLibPreprocessor-static.a

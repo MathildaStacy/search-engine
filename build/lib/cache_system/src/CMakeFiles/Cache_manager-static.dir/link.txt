@@ -1,0 +1,2 @@
+/usr/bin/cmake -E time /usr/bin/ar qc libCache_manager-static.a CMakeFiles/Cache_manager-static.dir/keywordLRUCache.cc.o CMakeFiles/Cache_manager-static.dir/keywordCacheManager.cc.o CMakeFiles/Cache_manager-static.dir/urlLRUCache.cc.o CMakeFiles/Cache_manager-static.dir/urlCacheManager.cc.o
+/usr/bin/cmake -E time /usr/bin/ranlib libCache_manager-static.a
